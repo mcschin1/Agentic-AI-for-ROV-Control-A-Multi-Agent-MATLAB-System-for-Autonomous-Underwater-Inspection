@@ -6,8 +6,9 @@
 > Newcastle University–NVIDIA Joint Laboratory · Newcastle University Singapore
 
 ---
+<img width="1719" height="1008" alt="image" src="https://github.com/user-attachments/assets/2c25357d-ce11-47e2-b96b-c5b63a7250dd" />
 
-![Simulation Dashboard](rov_agentic_simulation_v2.png)
+ 
 
 *Multi-agent simulation dashboard: 3D mission trajectory (depth-coded), obstacle field, Mission Agent waypoint progression, Sonar Agent proximity, Navigation Agent thruster commands with fault window, and Fault Agent depth overlay.*
 
