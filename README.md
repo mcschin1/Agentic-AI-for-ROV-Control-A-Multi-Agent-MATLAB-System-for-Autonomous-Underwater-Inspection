@@ -8,7 +8,8 @@
 ---
 <img width="1719" height="1008" alt="image" src="https://github.com/user-attachments/assets/2c25357d-ce11-47e2-b96b-c5b63a7250dd" />
 
- 
+ <img width="1818" height="812" alt="image" src="https://github.com/user-attachments/assets/bc0f5461-fa37-45ef-87c8-02586460946c" />
+
 
 *Multi-agent simulation dashboard: 3D mission trajectory (depth-coded), obstacle field, Mission Agent waypoint progression, Sonar Agent proximity, Navigation Agent thruster commands with fault window, and Fault Agent depth overlay.*
 
